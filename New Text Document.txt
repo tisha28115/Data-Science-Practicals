@@ -1,1 +1,5 @@
-hello Tisha here 
+Debt to equity < 0.25 AND
+Return on capital employed  > 20% AND
+Net profit > 200 AND
+public holding < 30%
+Pledged percentage < 10%
